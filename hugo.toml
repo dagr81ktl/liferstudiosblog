@@ -1,4 +1,4 @@
-baseURL = 'https://liferstudios.com/'
+baseURL = 'https://blog.liferstudios.com/'
 languageCode = 'en-us'
 title = 'Lifer Studios'
 theme = "diary"
@@ -16,4 +16,3 @@ url = "https://github.com/dagr81ktl"
 enableRobotsTXT = true
 
 googleAnalytics = "UA-XXXXX-Y"
-disqusShortname = "liferstudiosblog"
