@@ -1,4 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://https://liferstudios.com//'
 languageCode = 'en-us'
 title = 'Lifer Studios GameDev Blog'
 theme = "diary"
+
+description = "Hi, there! This is our game developer's blog where we are sharing our joys and struggles of creating the most unique games the rold ever seen. If we're lucky enough)"
