@@ -2,17 +2,3 @@ baseURL = 'https://blog.liferstudios.com/'
 languageCode = 'en-us'
 title = 'Lifer Studios'
 theme = "diary"
-
-description = "Hi, there! This is our game developer's blog where we are sharing our joys and struggles of creating the most unique games the world ever seen. If we're lucky enough)"
-
-[author]
-name = "Konstantin Lifer"
-bio = "Coming soon"
-
-[params]
-enableRobotsTXT = true
-googleAnalytics = "UA-XXXXX-Y"
-
-[[params.social]]
-name = "GitHub"
-url = "https://github.com/dagr81ktl"
