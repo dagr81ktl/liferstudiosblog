@@ -5,7 +5,6 @@ backend:
   debug: true
 
 media_folder: "static/images/uploads" # Путь для загрузки изображений
-public_folder: "/images/uploads"      # Путь для отображения изображений в URL
 
 collections:
   - name: "posts"
