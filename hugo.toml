@@ -2,3 +2,5 @@ baseURL = 'https://blog.liferstudios.com/'
 languageCode = 'en-us'
 title = 'Lifer Studios'
 theme = "diary"
+description = "Developer blog for the steampunk strategy RPG by Lifer Studios."
+keywords = ["game development", "steampunk RPG", "Lifer Studios", "RPG", "steampunk", "gamedev", "strategy"]
