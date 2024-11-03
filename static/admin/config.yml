@@ -1,8 +1,10 @@
 backend:
   name: git-gateway
-  branch: main
-media_folder: "static/images/uploads"
-public_folder: "/images/uploads"
+  branch: main  # Название основной ветки репозитория
+
+media_folder: "static/images/uploads" # Путь для загрузки изображений
+public_folder: "/images/uploads"      # Путь для отображения изображений в URL
+
 collections:
   - name: "posts"
     label: "Posts"
