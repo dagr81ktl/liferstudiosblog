@@ -4,3 +4,11 @@ title = 'Lifer Studios'
 theme = "diary"
 description = "Developer blog for the steampunk strategy RPG by Lifer Studios."
 keywords = ["game development", "steampunk RPG", "Lifer Studios", "RPG", "steampunk", "gamedev", "strategy"]
+
+[params]
+  author = "Konatantin Lifer"                  # Имя автора для постов
+  showAuthor = true                         # Показ имени автора на страницах постов
+  showDate = true                           # Показ даты публикации
+  themeToggle = true                        # Переключатель светлой/темной темы (если поддерживается)
+  showTags = true                           # Показ тегов для постов
+  showCategories = true   
