@@ -1,13 +1,45 @@
 <?xml-stylesheet href="/rss.xsl" type="text/xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Lifer Studios</title>
+    <link>https://blog.liferstudios.com/</link>
+    <description>Recent content on Lifer Studios</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 16 Dec 2024 14:59:58 +0100</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://blog.liferstudios.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+        <item>
+        <title>Daily GameDev Blog - #1</title>
+        <link>https://blog.liferstudios.com/posts/241216---post---0001/</link>
+        <pubDate>Mon, 16 Dec 2024 12:00:00 +0000</pubDate>
+        
+        <guid>https://blog.liferstudios.com/posts/241216---post---0001/</guid>
+        <description>Lifer Studios https://blog.liferstudios.com/posts/241216---post---0001/ -&lt;p&gt;Here we go, bay-bayyyyyy!! First post!&lt;/p&gt;
+&lt;p&gt;I am Konstantin Lifer and this is my daily games developer blog. I am intended to post my thoughts, insights, experiences and other &amp;ldquo;useful&amp;rdquo; stuff about the process of game development here.&lt;/p&gt;
+&lt;p&gt;But first things first:) Let me introduce myself properly. My name is Konstantin, I a founder and a head of &amp;ldquo;Lifer Studios&amp;rdquo;. I was born in Russia and lived there for almost 39 years. Me and my family were dreaming of a nomadic life. You know, like a world is your home and a sky is your ceiling, but it took our dictator Vladimir Putin to invade Ukraine and enforce the best version of Orwell&amp;rsquo;s &amp;ldquo;1984&amp;rdquo; in Russia for us to finally hit the road and become digital nomads!&lt;/p&gt;
+&lt;p&gt;So, we lived in Turkey, Armenia, now we live in Montenegro and intend to stay here for another year before moving away to some new places!&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve been a fan of video-games for almost whole my life. That journey started with Doom, I suppose, then there were some other games, and finally Mortal Kombat. That was my true romance, my real love and that had sealed my fate. I became a player. Now I am 40 and I am more than sure that video-games are the ultimate forms of both art and entertainment.&lt;/p&gt;
+&lt;p&gt;But I was not just playing the games. As long as I remember myself I&amp;rsquo;ve been constantly thinking and dreaming on improving the games I know and love, create sequels, prequels, spin-offs, remakes. And at the same time I&amp;rsquo;ve been thinking about my own games. So I drawed, I sculpted, I wrote, but at the end of the day time after time I choose another career path. I&amp;rsquo;ve been a salesperson, a dentist, a sportsman, a teacher, a couch and I had always been and always will be a businessman.&lt;/p&gt;
+&lt;p&gt;But games, my own games still lived in my had. And at some point I understood, that until I stop making games inside my head and start actually making them in a real world (at least the world I perceive as the world outside my head), I will never-ever create a game. Even a single game not to say all the games I&amp;rsquo;d like to release into the universe!&lt;/p&gt;
+&lt;p&gt;So that how my journey started. Tomorrow I&amp;rsquo;ll tell you more, but for now&amp;hellip; Good bye and see you later!&lt;/p&gt;
+- https://blog.liferstudios.com/posts/241216---post---0001/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>Test Post</title>
+        <link>https://blog.liferstudios.com/posts/241103---test/</link>
+        <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.liferstudios.com/posts/241103---test/</guid>
+        <description>Lifer Studios https://blog.liferstudios.com/posts/241103---test/ -&lt;p&gt;This is a test post to check if Netlify CMS displays it correctly.&lt;/p&gt;
+- https://blog.liferstudios.com/posts/241103---test/ - </description>
+        </item>
     
     
   </channel>
